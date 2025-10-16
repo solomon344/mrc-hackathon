@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "auto-py-to-exe>=2.48.0",
     "ipykernel>=7.0.1",
     "scikit-learn>=1.7.2",
     "seaborn>=0.13.2",
